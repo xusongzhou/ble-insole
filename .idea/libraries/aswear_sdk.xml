@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="aswear-sdk">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/apptools/libs/aswear-sdk.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
