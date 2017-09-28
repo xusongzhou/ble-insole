@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activity_year">
+        <item>2016年</item>
+        <item>2017年</item>
+        <item>2018年</item>
+        <item>2019年</item>
+        <item>2020年</item>
+    </string-array>
+    <string-array name="month">
+        <item>2016/3/30~~2016/3/31</item>
+        <item>2016/3/31~~2016/4/1</item>
+    </string-array>
+    <string-array name="pose_types">
+        <item>跑步</item>
+        <item>步行</item>
+        <item>站立</item>
+        <item>平坐</item>
+    </string-array>
+    <string-array name="spingarr">
+        <item>2016/3/28~~2016/4/3</item>
+        <item>2013/3/19~~2013/3/3</item>
+        <item>2013/3/19~~2013/3/3</item>
+        <item>2013/3/19~~2013/3/3</item>
+        <item>2013/3/19~~2013/3/3</item>
+    </string-array>
+    <string-array name="spinner_text">
+        <item>最近三月</item>
+        <item>本月</item>
+        <item>本周</item>
+    </string-array>
+    <string-array name="week">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+    <string-array name="xMonth">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+
+
+
+    </string-array>
+    <string-array name="year">
+        <item>1月</item>
+        <item>2月</item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>5月</item>
+        <item>6月</item>
+        <item>7月</item>
+        <item>8月</item>
+        <item>9月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+    </string-array>
+    <string-array name="ylable_km">
+        <item>0.00</item>
+        <item>0.02</item>
+        <item>0.04</item>
+        <item>0.06</item>
+        <item>0.08</item>
+        <item>0.10</item>
+        <item>0.12</item>
+    </string-array>
+    <string-array name="ylable_month">
+        <item>0</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+    </string-array>
+    <string-array name="ylable_week">
+        <item>0</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="ylable_year">
+        <item>0</item>
+        <item>50</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+    </string-array>
+    <color name="a1">#FAEC61</color>
+    <color name="a2">#95E351</color>
+    <color name="a3">#07F1A7</color>
+    <color name="a4">#15AFB3</color>
+    <color name="circle_1">#FAD961</color>
+    <color name="circle_2">#F76B1C</color>
+    <color name="circle_3">#B4EC51</color>
+    <color name="circle_4">#008E91</color>
+    <color name="circle_5">#009CA2</color>
+    <color name="circle_6">#0048AD</color>
+    <color name="content_item_bg">#D3D3D3</color>
+    <color name="content_text">#444</color>
+    <color name="divider">#585858</color>
+    <color name="indicator">#EC4529</color>
+    <color name="inner_ring">#00A83B</color>
+    <color name="item_bg">#990D0D0D</color>
+    <color name="music_bg">#121212</color>
+    <color name="path_number">#E64229</color>
+    <color name="playing_item">#E43F15</color>
+    <color name="playlist_bg">#222</color>
+    <color name="run_plan_froeground">#88040405</color>
+    <color name="run_plan_line">#E3180D</color>
+    <color name="run_plan_progress">#FF2400</color>
+    <color name="run_plan_progress_bg">#33FF2400</color>
+    <color name="selected_songlist">#DB4A23</color>
+    <color name="sub_content_text">#8F8F8F</color>
+    <color name="tab_bg">#9926252A</color>
+    <color name="tab_text">#50E3C2</color>
+    <color name="tab_view_checked_text">#DDD</color>
+    <color name="tab_view_normal_text">#DDD</color>
+    <color name="tabhost_bg">#CCC</color>
+    <color name="title_bar_bg">#DDD</color>
+    <color name="title_bar_text">#333</color>
+    <color name="top_tips_bg">#1A1A1B</color>
+    <color name="top_warning_bg">#E8BF6A</color>
+    <color name="transparent">#CCC</color>
+    <color name="view_pager_indicator_bg">#121212</color>
+    <color name="white">#FFF</color>
+    <declare-styleable name="ArrowItemView"><attr format="string|reference" name="itemTitle"/><attr format="color|reference" name="itemTitleColor"/><attr format="color|reference" name="arrowColor"/><attr format="string|reference" name="hint"/><attr format="boolean" name="hintVisible"/><attr format="boolean" name="topDividerVisible"/><attr format="boolean" name="bottomDividerVisible"/><attr format="boolean" name="switchChecked"/><attr format="enum" name="style">
+            <enum name="arrow" value="0"/>
+            <enum name="toggle" value="1"/>
+            <enum name="nothing" value="2"/>
+        </attr></declare-styleable>
+    <declare-styleable name="BrokenLinePillar"><attr format="string" name="pillar"/></declare-styleable>
+    <declare-styleable name="BrokenLineView"><attr format="string" name="type"/></declare-styleable>
+    <declare-styleable name="GaitProgressBar"><attr format="color" name="startColor"/><attr format="color" name="stopColor"/></declare-styleable>
+    <declare-styleable name="HorizontalChildrenView"><attr format="integer" name="myviewType"/></declare-styleable>
+    <declare-styleable name="PostView"><attr format="color" name="color"/></declare-styleable>
+    <declare-styleable name="SwitchButton"><attr format="reference" name="swThumbDrawable"/><attr format="color|reference" name="swThumbColor"/><attr format="dimension|reference" name="swThumbMargin"/><attr format="dimension|reference" name="swThumbMarginTop"/><attr format="dimension|reference" name="swThumbMarginBottom"/><attr format="dimension|reference" name="swThumbMarginLeft"/><attr format="dimension|reference" name="swThumbMarginRight"/><attr format="dimension|reference" name="swThumbWidth"/><attr format="dimension|reference" name="swThumbHeight"/><attr format="dimension|reference" name="swThumbRadius"/><attr format="dimension|reference" name="swBackRadius"/><attr format="reference" name="swBackDrawable"/><attr format="color|reference" name="swBackColor"/><attr format="boolean" name="swFadeBack"/><attr format="float" name="swBackMeasureRatio"/><attr format="integer" name="swAnimationDuration"/><attr format="color|reference" name="swTintColor"/></declare-styleable>
+    <declare-styleable name="SwitchLayout"><attr format="enum" name="orientation">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+            <enum name="top" value="2"/>
+            <enum name="bottom" value="3"/>
+        </attr><attr format="integer" name="duration"/></declare-styleable>
+    <declare-styleable name="TitleBar"><attr format="string|reference" name="title"/><attr format="boolean" name="startTextViewVisible"/><attr format="boolean" name="endTextViewVisible"/><attr format="boolean" name="startImageButtonVisible"/><attr format="boolean" name="endImageButtonVisible"/><attr format="string|reference" name="startText"/><attr format="string|reference" name="endText"/><attr format="reference" name="startImageButtonSrc"/><attr format="reference" name="endImageButtonSrc"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="detail_content_text_size">18sp</dimen>
+    <dimen name="detail_num_size">18sp</dimen>
+    <dimen name="detail_unit_size">14sp</dimen>
+    <dimen name="detail_whole_day_num_size">22sp</dimen>
+    <dimen name="gait_bar_size">28dp</dimen>
+    <dimen name="layout_marginBottom">10dp</dimen>
+    <dimen name="layout_marginLeft">20dp</dimen>
+    <dimen name="layout_marginRight">20dp</dimen>
+    <dimen name="layout_marginTop">10dp</dimen>
+    <dimen name="page_pose_content_text_size">18sp</dimen>
+    <dimen name="stat_marginBottom">10dp</dimen>
+    <dimen name="stat_marginLeft">15dp</dimen>
+    <dimen name="stat_marginRight">15dp</dimen>
+    <dimen name="stat_marginTop">10dp</dimen>
+    <dimen name="stat_size">16dp</dimen>
+    <string name="about_ansobuy">关于安小白</string>
+    <string name="account_colon">帐号:</string>
+    <string name="accumulation">累计</string>
+    <string name="action_info">Information</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity">活动</string>
+    <string name="add_songs">添加歌曲</string>
+    <string name="add_to">添加到</string>
+    <string name="add_to_songlist">添加到歌单</string>
+    <string name="added">已添加</string>
+    <string name="aes_encryption_call_error">Invoke AES encryption native API failed</string>
+    <string name="all_songs">全部歌曲</string>
+    <string name="app_build_version">153</string>
+    <string name="app_name">FWTools</string>
+    <string name="app_need_ble">应用需要蓝牙支持，是否开启？</string>
+    <string name="app_version">Application Version:</string>
+    <string name="available_device">可用设备</string>
+    <string name="bind">绑定</string>
+    <string name="birthyear">出生年</string>
+    <string name="birthyear_colon">出生年:</string>
+    <string name="bl_contransfer_control_aborted">Bootloader transfer control status is aborted</string>
+    <string name="bl_contransfer_control_completed">Bootloader transfer control status is completed</string>
+    <string name="bl_contransfer_control_failed">Bootloader transfer control status is failed</string>
+    <string name="bl_contransfer_control_inprogress">Bootloader transfer control status is in progress</string>
+    <string name="bl_contransfer_control_paused">Bootloader transfer control status is paused</string>
+    <string name="bl_contransfer_control_ready">Bootloader transfer control status is ready</string>
+    <string name="bl_contransfer_control_unknown">Bootloader transfer control status is unknown!</string>
+    <string name="ble_bonded_state_desc">Remote device is paired, start service discovery…</string>
+    <string name="ble_bonding_desc">Remote device is pairing, please wait…</string>
+    <string name="ble_boot_loader_mode">Enter OTAU boot loader mode</string>
+    <string name="ble_challenge_response_failed_desc">Challenge-response failed!</string>
+    <string name="ble_csr_ota_version_desc">Read CSR software version</string>
+    <string name="ble_device">BLE Device</string>
+    <string name="ble_download_aborted_desc">Download aborted</string>
+    <string name="ble_download_cancelled_desc">Download cancelled!</string>
+    <string name="ble_download_complete_desc">Download completed</string>
+    <string name="ble_download_failed_desc">Download failed</string>
+    <string name="ble_download_paused_desc">Download Paused!</string>
+    <string name="ble_downloading_desc">Downloading…</string>
+    <string name="ble_encryption_root_value">[Encryption Root]:</string>
+    <string name="ble_error_1">Please check if CSkey or Image is configed correctly</string>
+    <string name="ble_get_application_ota_service">Get application OTAU service</string>
+    <string name="ble_get_boot_loader_service">Get boot loader service</string>
+    <string name="ble_identity_root_value">[Identity Root]:</string>
+    <string name="ble_init_failed">设备蓝牙初始化失败！</string>
+    <string name="ble_lost_bond_desc">Remote device lost bond information</string>
+    <string name="ble_nobond_desc">Remote target might already be paired with another device. Unable to pair!</string>
+    <string name="ble_not_support_ota_feature">Remote device does not support OTAU update.</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="ble_ota_success"> succeed</string>
+    <string name="ble_read_boot_loader_version_desc">Read boot loader version</string>
+    <string name="ble_read_btaddress">Read Bluetooth address …</string>
+    <string name="ble_read_challenge_key">Read challenge key</string>
+    <string name="ble_read_cs_block">Read CS Block data…</string>
+    <string name="ble_read_encryption_root">Read encryption root …</string>
+    <string name="ble_read_identity_root">Read identity root …</string>
+    <string name="ble_read_xlst">Read crystal trim value…</string>
+    <string name="ble_ready_download_desc">Get ready to download image</string>
+    <string name="ble_request_enable_bt">This application needs to turn Bluetooth on!</string>
+    <string name="ble_respond_challenge_key">Respond to the challenge</string>
+    <string name="ble_set_onchip_application_desc">Set onchip application success, get ready to download image</string>
+    <string name="brackets_hour">(小时)</string>
+    <string name="brackets_kcal">(千卡)</string>
+    <string name="brackets_min_per_km">(分钟/公里)</string>
+    <string name="brackets_minute_second">(分:秒)</string>
+    <string name="brackets_songs_number">(?首)</string>
+    <string name="brackets_step">(步)</string>
+    <string name="btloader_software_version">OTAU Software Version:</string>
+    <string name="btloader_version">OTAU Version:</string>
+    <string name="calories">卡路里</string>
+    <string name="calories_brackets_kcal">卡路里(千卡)</string>
+    <string name="can_not_bind_diff_type_device">不能绑定两个不同类型设备</string>
+    <string name="cancel">取消</string>
+    <string name="cancel_btn">Abort</string>
+    <string name="cancel_btn_label">Cancel</string>
+    <string name="cannot_get_qq_info">无法获取QQ用户信息</string>
+    <string name="cant_load_selected_file">File or folder is not valid!</string>
+    <string name="challenge_response_disabled">Disabled</string>
+    <string name="challenge_response_enabled">Enabled</string>
+    <string name="challenge_response_label">Challenge-Response:</string>
+    <string name="change_info">编辑资料</string>
+    <string name="change_pwd">修改密码</string>
+    <string name="change_success">修改成功</string>
+    <string name="check_code">校验码:</string>
+    <string name="check_new_version">检查新版本</string>
+    <string name="checking_new_version">正在检查新版本</string>
+    <string name="choose_file_hint">choose from sdcard…</string>
+    <string name="choose_image_or_target_prompt">Please choose updated image or set target!</string>
+    <string name="clear">清空</string>
+    <string name="clear_dev_data">清除设备数据</string>
+    <string name="clear_faile">设备数据清除失败</string>
+    <string name="clear_success">设备数据清除成功</string>
+    <string name="clear_warn_msg">将清除所有已连接设备的数据，确定清除吗？</string>
+    <string name="clearing_data">正在清除数据</string>
+    <string name="click_again_exit">再点击一次退出程序</string>
+    <string name="close">关闭</string>
+    <string name="comfirm_password_different">两次密码输入不一致</string>
+    <string name="complete">完成</string>
+    <string name="completed_witch_colon">已完成：</string>
+    <string name="confirm_password">再次确认密码</string>
+    <string name="confirm_password_colon">确认密码:</string>
+    <string name="connect_device">连接设备</string>
+    <string name="connect_first">请先连接设备</string>
+    <string name="crystal_trim">Crystal Trim:</string>
+    <string name="cskey_db_xml_io_error">Read CSKey XML file error!</string>
+    <string name="cskey_db_xml_not_found">CSKey XML file not found!</string>
+    <string name="cskey_db_xml_parsed_error">Parsing CSKey XML file error!</string>
+    <string name="current_newest_version">当前已是最新版本</string>
+    <string name="current_songlist_no_song">当前歌单没有歌曲</string>
+    <string name="current_version">当前版本 </string>
+    <string name="daily_fitness_plan">日常健身计划</string>
+    <string name="damage_warn_text">您已达损伤临界点，请注意休息。</string>
+    <string name="day">日</string>
+    <string name="debug_firmware">调试固件</string>
+    <string name="default_cskey_db_xml"> provided by default</string>
+    <string name="delete">删除</string>
+    <string name="device_bind_faile">设备绑定失败，请重试</string>
+    <string name="device_disconnected">设备未连接</string>
+    <string name="device_manager">设备管理</string>
+    <string name="disconn_run_warn">检测到您的设备未全部连接成功，如果继续此操作可能会造成数据不准确，确定继续吗？</string>
+    <string name="discovering_service">Discovering service…</string>
+    <string name="distance_brackets_km">距离(公里)</string>
+    <string name="distance_brackets_m">距离(米)</string>
+    <string name="download_btn">Start OTAU</string>
+    <string name="download_btn_label">Download</string>
+    <string name="download_image_label">Target Device</string>
+    <string name="download_new_version_msg">发现新版本，是否马上下载？</string>
+    <string name="downloading">正在下载</string>
+    <string name="duration">时长</string>
+    <string name="duration_stat">时长统计</string>
+    <string name="empty">空空如也</string>
+    <string name="ensure_all_devices_connected">请确保所有设备已连接</string>
+    <string name="ensure_change">确认修改</string>
+    <string name="error"> error:</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="error_message_id_bl_transfercontrol_notification">Request boot loader transfer control notification failed!</string>
+    <string name="error_message_id_challenge_response">Read challenge response failed, please check the configuration</string>
+    <string name="error_message_id_enable_ota">Set OTAU mode error</string>
+    <string name="error_message_id_null_service">Access remote GATT service or characteristic error.</string>
+    <string name="error_message_id_readcskey_btaddress">Read Bluetooth address error!</string>
+    <string name="error_message_id_readcskey_encroot">Read encryption root error!</string>
+    <string name="error_message_id_readcskey_idroot">Read identity root error!</string>
+    <string name="error_message_id_readcskey_xlst">Read cyrstal trim value error!</string>
+    <string name="error_message_id_set_application_id">The target might not have to set application position.</string>
+    <string name="error_message_id_write_to_target">Remote target rejected the package sent</string>
+    <string name="exit">退出</string>
+    <string name="fatigue_hard">疲劳</string>
+    <string name="fatigue_somewhat_hard">有点疲劳</string>
+    <string name="fatigue_very_hard">非常疲劳</string>
+    <string name="fatigue_very_very_hard">极度疲劳</string>
+    <string name="fatigue_warn_text">您已达疲劳临界点，请注意休息。</string>
+    <string name="fatigue_warning">疲劳预警</string>
+    <string name="female">女</string>
+    <string name="file_dialog_title">Choose File</string>
+    <string name="file_io_exception">File IO Exception!</string>
+    <string name="find_firmware_error">发现设备固件异常</string>
+    <string name="fireware_version_different">固件版本不一致，请重新绑定，否则可能造成程序异常</string>
+    <string name="firmware_error">固件异常</string>
+    <string name="firmware_upgrade">固件升级</string>
+    <string name="firmware_upgrade_failed">固件升级失败</string>
+    <string name="firmware_upgrade_success">固件升级成功</string>
+    <string name="foot_detail">查看步态详情</string>
+    <string name="full_marathon">全马</string>
+    <string name="gait">步态</string>
+    <string name="gatt_connected_desc">Gatt server connected and service discovery is completed.</string>
+    <string name="gender">性别</string>
+    <string name="gender_colon">性别:</string>
+    <string name="get_xlst_error">App didn\'t get crystal trim value in remote device</string>
+    <string name="height_brackets">身高(厘米)</string>
+    <string name="height_colon">身高(cm):</string>
+    <string name="hide">隐藏</string>
+    <string name="ignore">忽略</string>
+    <string name="image_file_not_found_error">Image file not found!</string>
+    <string name="image_load_failed">图片加载失败</string>
+    <string name="image_not_exist">图片不存在</string>
+    <string name="initializing">正在初始化</string>
+    <string name="injure_high">损伤高风险</string>
+    <string name="injure_low">损伤低风险</string>
+    <string name="injure_middle">损伤中风险</string>
+    <string name="input_code">请输入校验码</string>
+    <string name="input_correct_height">请输入正确的身高</string>
+    <string name="input_correct_phone">请输入正确的手机号</string>
+    <string name="input_correct_shoe_size">请输入正确的鞋码</string>
+    <string name="input_correct_weight">请输入正确的体重</string>
+    <string name="input_height">请输入身高</string>
+    <string name="input_new_pwd">请输入新密码</string>
+    <string name="input_old_pwd">请输入原密码</string>
+    <string name="input_password">请输入密码</string>
+    <string name="input_phone">请输入手机号</string>
+    <string name="input_shoe_size">请输入鞋码</string>
+    <string name="input_songlist_name">请输入歌单名</string>
+    <string name="input_username">请输入昵称</string>
+    <string name="input_weight">请输入体重</string>
+    <string name="invalid_csblock_id">Invalid CS Key Id!</string>
+    <string name="invalid_qr_code">无效的二维码</string>
+    <string name="kcal">千卡</string>
+    <string name="km">公里</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device Address:</string>
+    <string name="label_state">Connection State:</string>
+    <string name="left">左</string>
+    <string name="loading_cskey_db_xml">Loading cskey XML file</string>
+    <string name="loading_playlist">音乐加载中…</string>
+    <string name="locating_prompt">努力定位中…</string>
+    <string name="location">Location</string>
+    <string name="log_title">Over-The-Air Update Log</string>
+    <string name="logout">注销</string>
+    <string name="lose_weight_exercise_plan">减肥锻炼计划</string>
+    <string name="low_battery">设备电量低，请及时充电</string>
+    <string name="male">男</string>
+    <string name="manager">管理</string>
+    <string name="manipulating">Manipulating </string>
+    <string name="marathon_training_plan">马拉松训练计划</string>
+    <string name="marathon_training_plan_10km">马拉松10KM训练计划</string>
+    <string name="marathon_training_plan_5km">马拉松5KM训练计划</string>
+    <string name="marathon_training_plan_full">马拉松全马训练计划</string>
+    <string name="me">我</string>
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+    <string name="merging_image_cs_key_exception">Merging image CS Key exception!</string>
+    <string name="min_per_km">分钟/公里</string>
+    <string name="month">月</string>
+    <string name="more">更多</string>
+    <string name="move_and_zoom">移动和缩放</string>
+    <string name="my_song_list">我的歌单</string>
+    <string name="new_pwd_colon">新密码:</string>
+    <string name="new_songlist">新建歌单</string>
+    <string name="no_data"/>
+    <string name="no_data_label">No data</string>
+    <string name="no_device_info">无法获取设备信息</string>
+    <string name="no_playlist_prompt">还没有歌单，赶紧新建吧</string>
+    <string name="no_record">没有记录</string>
+    <string name="not_support_ble">您的设备不支持蓝牙！</string>
+    <string name="null_btaddress_xlst">The remote device\'s address or crystal trim value is null,please try to connect to it again.</string>
+    <string name="null_value">-</string>
+    <string name="ok">确定</string>
+    <string name="old_pwd_colon">原密码:</string>
+    <string name="only_bind_one">绑定一只设备可能造成数据不准确</string>
+    <string name="open">开启</string>
+    <string name="ota_initialize_failed_msg">初始化失败，是否重试？</string>
+    <string name="ota_started">OTAU is enabled</string>
+    <string name="ota_warning">请确保设备电量在50%以上，并距离手机2米内以保持良好信号。</string>
+    <string name="pace">配速</string>
+    <string name="pace_brackets_min_per_km">配速(分钟/公里)</string>
+    <string name="password_at_least_6_char">密码至少6个字符</string>
+    <string name="password_colon">密码:</string>
+    <string name="path">轨迹</string>
+    <string name="pause_btn">Pause</string>
+    <string name="pause_btn_label">Pause</string>
+    <string name="pay_log">兑换记录</string>
+    <string name="pay_wx">微信兑换</string>
+    <string name="pay_zfb">支付宝兑换</string>
+    <string name="personal_info">个人资料</string>
+    <string name="phone_colon">手机号:</string>
+    <string name="phone_exist">电话已经被注册</string>
+    <string name="plan">计划</string>
+    <string name="plan_end_warn">您的计划已经进行到最后一天，加油哦！</string>
+    <string name="playlist">播放列表</string>
+    <string name="playlist_is_null">播放列表为空</string>
+    <string name="please_stop_running_first">请先结束跑步</string>
+    <string name="pose">姿势</string>
+    <string name="pose_distribution">姿势分布</string>
+    <string name="qrcode_tips">将二维码对准取景框，\n即可自动扫描。</string>
+    <string name="random_list">乱序</string>
+    <string name="rank">等级</string>
+    <string name="reconnect_gatt">Waiting in few seconds to refresh the version and cached attributes</string>
+    <string name="reinput_pwd_colon">请再次输入新密码</string>
+    <string name="restart_ble_request">无法连接设备，需要重新启动蓝牙，是否重启？</string>
+    <string name="restart_dev">重启设备</string>
+    <string name="restart_warn_msg">确定重启所有已连接设备吗？</string>
+    <string name="right">右</string>
+    <string name="rotate">旋转</string>
+    <string name="run_music">伴跑音乐</string>
+    <string name="run_plan_not_start">未开始任何计划</string>
+    <string name="run_plan_warn">还剩?天。继续努力！</string>
+    <string name="run_volume">跑步</string>
+    <string name="running">跑步</string>
+    <string name="save">保存</string>
+    <string name="scan">Scan</string>
+    <string name="scan_qr_code">扫一扫</string>
+    <string name="search_device">搜索设备</string>
+    <string name="select">Select</string>
+    <string name="select_all">全选</string>
+    <string name="select_from_album">从相册选择</string>
+    <string name="select_image_button">Select</string>
+    <string name="select_image_label">Source App File</string>
+    <string name="selected_items">已选中?项</string>
+    <string name="selected_songlist">伴跑歌单</string>
+    <string name="send_restart_faile">向?设备发送重启指令失败</string>
+    <string name="send_restart_success">已向?设备发送重启指令</string>
+    <string name="set_target">Set Target</string>
+    <string name="set_to_selected_songlist">设置为伴跑歌单</string>
+    <string name="shoe_size_colon">鞋码:</string>
+    <string name="show">显示</string>
+    <string name="show_detail">查看详情</string>
+    <string name="sign_in">登录</string>
+    <string name="sign_in_faile">登录失败</string>
+    <string name="sign_in_ing">正在登录</string>
+    <string name="sign_up">注册</string>
+    <string name="sign_up_success">注册成功</string>
+    <string name="songlist_exist">歌单已存在</string>
+    <string name="songlist_not_exist">歌单不存在</string>
+    <string name="songlist_save_failed">歌单保存失败</string>
+    <string name="songlist_save_succeed">歌单保存成功</string>
+    <string name="songs_number">\?首</string>
+    <string name="sport_detail">查看运动分段数据</string>
+    <string name="start_bond_desc">Start to create bond</string>
+    <string name="start_bond_error">, start to create bond, Error</string>
+    <string name="stat">统计</string>
+    <string name="stat_activity">活动统计</string>
+    <string name="stat_gait">步态统计</string>
+    <string name="stat_pose">姿势统计</string>
+    <string name="steps">步数</string>
+    <string name="stop_run_plan_warning">        您还未完成?，确定要结束吗？</string>
+    <string name="stop_search">停止搜索</string>
+    <string name="strong">强</string>
+    <string name="switch_run_plan_warning">        您目前正处于?中，是否结束?，开始?？</string>
+    <string name="take_photo">拍照</string>
+    <string name="target_device">Target Device</string>
+    <string name="text_null">-</string>
+    <string name="the_new">新建</string>
+    <string name="title_activity_pay_loginfo">PayLoginfoActivity</string>
+    <string name="title_activity_wxentry">WXEntryActivity</string>
+    <string name="title_devices">Scan Devices</string>
+    <string name="today_activity">今日活动</string>
+    <string name="touchdown_impact">着地冲击力</string>
+    <string name="unbound_warning">您还未绑定任何设备。 绑定</string>
+    <string name="unit_step">步</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_device">未知设备</string>
+    <string name="unknown_service">Unknown service</string>
+    <string name="unkown">未知</string>
+    <string name="upgrade_file_not_exist">升级文件不存在</string>
+    <string name="upgrade_firmware">升级固件</string>
+    <string name="upgrading_firmware">正在升级固件</string>
+    <string name="username_colon">昵称:</string>
+    <string name="username_or_pwd_null">用户名或密码不能为空</string>
+    <string name="version_update">版本更新</string>
+    <string name="voice_remind">语音提醒</string>
+    <string name="wait_ota_complete">等待升级完成</string>
+    <string name="walk">步行</string>
+    <string name="warning">提示</string>
+    <string name="weak">弱</string>
+    <string name="week">周</string>
+    <string name="weight_brackets">体重(千克)</string>
+    <string name="weight_colon">体重(kg):</string>
+    <string name="which_week_and_day">第?周第?天</string>
+    <string name="year">年</string>
+    <style name="AppTheme" parent="android:Theme.Holo.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit</item>
+    </style>
+    <style name="DialogStyle" parent="android:Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowBackground">@drawable/linear_bg</item>
+    </style>
+</resources>

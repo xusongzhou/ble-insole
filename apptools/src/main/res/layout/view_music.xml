@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:paddingTop="8dp"
+	android:background="@color/music_bg"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="110dp">
+
+	<FrameLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+
+		<LinearLayout
+			android:gravity="center"
+			android:layout_gravity="center"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content">
+
+			<FrameLayout
+				android:id="@+id/fl_play_mode"
+				android:layout_marginEnd="10dp"
+				android:layout_width="60dp"
+				android:layout_height="50dp">
+				<ImageView	
+					android:id="@+id/iv_play_mode"
+					android:background="@drawable/all_cycle"
+					android:layout_gravity="center"
+					android:layout_width="26dp"
+					android:layout_height="26dp"/>
+			</FrameLayout>
+			
+			<ImageButton
+				android:id="@+id/btn_pre_track"
+				android:background="@drawable/pre_track"
+				android:layout_width="52dp"
+				android:layout_height="36dp"/>
+
+			<ImageButton
+				android:id="@+id/btn_next_track"
+				android:background="@drawable/next_track"
+				android:layout_marginStart="56dp"
+				android:layout_width="52dp"
+				android:layout_height="36dp"/>
+
+			<FrameLayout
+				android:id="@+id/fl_playlist"
+				android:layout_marginStart="10dp"
+				android:layout_width="60dp"
+				android:layout_height="50dp">
+				<ImageView
+					android:background="@drawable/playlist"
+					android:layout_gravity="center"
+					android:layout_width="26dp"
+					android:layout_height="26dp"/>
+			</FrameLayout>
+		</LinearLayout>
+		<ImageButton
+			android:id="@+id/btn_play"
+			android:layout_gravity="center"
+			android:background="@drawable/play"
+			android:layout_width="70dp"
+			android:layout_height="70dp"/>
+	</FrameLayout>
+	<TextView
+		android:id="@+id/tv_music_name"
+		android:layout_marginTop="4dp"
+		android:gravity="center"
+		android:textColor="@color/content_text"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"/>
+</LinearLayout>

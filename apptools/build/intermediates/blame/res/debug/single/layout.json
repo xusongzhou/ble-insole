@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\layout_plan_subitem.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\layout_plan_subitem.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\view_run.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\view_run.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_warning_view.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_warning_view.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_manager.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_device_manager.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\warning_type_line.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\warning_type_line.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\pager_songs.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\pager_songs.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\frag_stat.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\frag_stat.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity_viewpager.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_activity_viewpager.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\year_time_view.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\year_time_view.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\view_music.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\view_music.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\item_songlist.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\item_songlist.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clip.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_clip.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\fwdebug_suminfo_item.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\fwdebug_suminfo_item.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity_listview_item.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_activity_listview_item.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\frag_me.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\frag_me.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\tab_left_device.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\tab_left_device.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_info.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_user_info.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\driver.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\driver.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\list_null_view.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\list_null_view.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fwdebug.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_fwdebug.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_year_view.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_year_view.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_to_songlist.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_add_to_songlist.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\layout_plan_item.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\layout_plan_item.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\fwdebug_select_item.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\fwdebug_select_item.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_songlist.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\dialog_songlist.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\frag_more.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\frag_more.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\item_song.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\item_song.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\content.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\content.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\pager_gait.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\pager_gait.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\pose_content.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\pose_content.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\circle_view.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\circle_view.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_plan.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_main_plan.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\warning_type_content.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\warning_type_content.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_pwd.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_change_pwd.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\pager_today_activity.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\pager_today_activity.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stat_gait.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_stat_gait.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\view_run_progress.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\view_run_progress.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\month_time_view_item.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\month_time_view_item.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_path_record.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_path_record.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_daily_and_lose_plan.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_daily_and_lose_plan.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stat_activity.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_stat_activity.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_week_view.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_week_view.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\fwdebug_keyvalue_item.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\fwdebug_keyvalue_item.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_song.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\dialog_add_song.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\pager_pose.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\pager_pose.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\user_info_view.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\user_info_view.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\view_run_plan.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\view_run_plan.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_marathon_plan.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_marathon_plan.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_msg.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\dialog_msg.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_path.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_path.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\toast_text.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\toast_text.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\pager_my_songlist.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\pager_my_songlist.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stat_pose.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_stat_pose.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stat_warning.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_stat_warning.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stat_pose_viewpager.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_stat_pose_viewpager.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_songlist.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_songlist.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\frag_activity.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\frag_activity.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\tab_right_device.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\tab_right_device.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\fwdebug_detailinfo_day.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\fwdebug_detailinfo_day.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\item_songlist_simple.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\item_songlist_simple.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\item_arrow_toggle.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\item_arrow_toggle.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\linear.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\linear.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\list_time_view.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\list_time_view.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stat_gait_viewpager.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_stat_gait_viewpager.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scan_qr_code.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_scan_qr_code.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\pay_loginfo_lv_item.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\pay_loginfo_lv_item.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\item_device.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\item_device.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay_loginfo.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_pay_loginfo.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\fwdebug_detailinfo_item.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\fwdebug_detailinfo_item.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\pager_device_info.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\pager_device_info.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\timelistview_item.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\timelistview_item.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_in.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ota.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_ota.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_num_picker.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\dialog_num_picker.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wxentry.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_wxentry.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_songlist.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_new_songlist.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fatigue_warning.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_fatigue_warning.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\fwdebug_detail_sports.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\fwdebug_detail_sports.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_music_manager.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_music_manager.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_info.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_my_info.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\view_title_bar.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\view_title_bar.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_month_view.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\layout\\activity_month_view.xml"
+    }
+]

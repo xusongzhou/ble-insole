@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.advanpro.fwtools.common.view.TitleBar
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:title="姿态统计"/>
+    <com.advanpro.fwtools.module.stat.HorizontalView
+        android:id="@+id/myHorizontalView"
+        android:layout_width="match_parent"
+        android:background="@drawable/radiobtn_select"
+        android:layout_height="50dp"
+        android:scrollbars="none"
+        android:overScrollMode="never"/>
+    <LinearLayout
+        android:id="@+id/linearView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <com.advanpro.fwtools.module.stat.HorizontalChildrenView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:myviewType="2"/>
+    </LinearLayout>
+    
+</LinearLayout>
+

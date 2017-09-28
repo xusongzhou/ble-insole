@@ -1,0 +1,490 @@
+[
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_4_min_end.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_4_min_end.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\then_walk_1_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\then_walk_1_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_5_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_5_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\walk_1_5_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\walk_1_5_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\ten.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\ten.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\walk_2_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\walk_2_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\go_run_10_km.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\go_run_10_km.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_12_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_12_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\userkey.conf",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\userkey.conf"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\fast_run_4_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\fast_run_4_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\go_run_3_km.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\go_run_3_km.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\one.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\one.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\five.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\five.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\finish_10_km.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\finish_10_km.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_9_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_9_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\walk_1_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\walk_1_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\p_100_s_15.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\p_100_s_15.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\fatigue_somewhat_hard.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\fatigue_somewhat_hard.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\finish_lose_weight_plan.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\finish_lose_weight_plan.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_3_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_3_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\injure_high.wav",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\injure_high.wav"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_24_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_24_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\go_run_6_km.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\go_run_6_km.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\eight.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\eight.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\liang.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\liang.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_2_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_2_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\fast_run_2_5_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\fast_run_2_5_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\then_walk_2_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\then_walk_2_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_8_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_8_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\km.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\km.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\hour.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\hour.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_11_min_end.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_11_min_end.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_8_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_8_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\seven.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\seven.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_3_min_end.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_3_min_end.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_plan.json",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_plan.json"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_13_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_13_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_1_min_end.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_1_min_end.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_1_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_1_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\p_100_s_30.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\p_100_s_30.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_5_min_end.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_5_min_end.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_4_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_4_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_9_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_9_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_9_min_end.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_9_min_end.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\go_run_15_km.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\go_run_15_km.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\dot.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\dot.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_6_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_6_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\p_80_s_60.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\p_80_s_60.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_12_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_12_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\p_80_s_15.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\p_80_s_15.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_2_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_2_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_15_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_15_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_28_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_28_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\fatigue_very_very_hard.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\fatigue_very_very_hard.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_10_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_10_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_28_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_28_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_4_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_4_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\second.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\second.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_11_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_11_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\go_run_12_km.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\go_run_12_km.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\finish_daily_plan.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\finish_daily_plan.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\impact_2.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\impact_2.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\four.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\four.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\go_run_25_km.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\go_run_25_km.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\use_time.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\use_time.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\zero.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\zero.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_26_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_26_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\finish_mara_plan.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\finish_mara_plan.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_17_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_17_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_26_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_26_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_6_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_6_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_2_min_end.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_2_min_end.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_7_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_7_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\fast_run_3_5_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\fast_run_3_5_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\six.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\six.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_30_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_30_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\fast_run_2_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\fast_run_2_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\start_run.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\start_run.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\two.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\two.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_11_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_11_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\impact_3.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\impact_3.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\fatigue_very_hard.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\fatigue_very_hard.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\finish_first_mara.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\finish_first_mara.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\well_done.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\well_done.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\pause_run.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\pause_run.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\low_battery.ogg",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\low_battery.ogg"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\go_run_8_km.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\go_run_8_km.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_12_min_end.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_12_min_end.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_13_min_end.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_13_min_end.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_10_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_10_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_18_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_18_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\p_80_s_30.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\p_80_s_30.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\injure_low.wav",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\injure_low.wav"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\warm_up_5_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\warm_up_5_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_10_min_end.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_10_min_end.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\fast_run_3_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\fast_run_3_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_7_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_7_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_1_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_1_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\go_run_30_km.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\go_run_30_km.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\come_on.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\come_on.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_20_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_20_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\p_100_s_60.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\p_100_s_60.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\finish_stop.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\finish_stop.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\walk_3_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\walk_3_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\fatigue_hard.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\fatigue_hard.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_25_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_25_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\minute.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\minute.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\keep_trying.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\keep_trying.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_16_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_16_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\cskey_db.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\cskey_db.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\go_run_5_km.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\go_run_5_km.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\nine.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\nine.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\goon_run.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\goon_run.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\finish_5_km.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\finish_5_km.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_3_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_3_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\three.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\three.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_14_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_14_min_first.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_5_min.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_5_min.mp3"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\injure_middle.wav",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\injure_middle.wav"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\raw\\run_27_min_first.mp3",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\raw\\run_27_min_first.mp3"
+    }
+]

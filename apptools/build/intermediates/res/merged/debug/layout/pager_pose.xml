@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+	<com.advanpro.fwtools.common.view.TitleBar
+		app:title="@string/pose"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"/>
+	<TextView
+		android:text="@string/pose_distribution"
+		android:layout_gravity="center_horizontal"
+		android:textColor="@color/content_text"
+		android:textSize="18sp"
+		android:layout_marginTop="10dp"
+		android:layout_marginBottom="10dp"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"/>
+	<com.advanpro.fwtools.module.activity.PoseDistributionView
+		android:id="@+id/distribution_view"
+		android:layout_marginStart="10dp"
+		android:layout_marginEnd="10dp"
+		android:layout_width="match_parent"
+		android:layout_height="200dp"/>
+	<TextView
+		android:text="@string/duration_stat"
+		android:layout_gravity="center_horizontal"
+		android:textColor="@color/content_text"
+		android:textSize="18sp"
+		android:layout_marginTop="20dp"
+		android:layout_marginBottom="10dp"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"/>
+	<com.advanpro.fwtools.module.activity.PoseDurationView
+		android:id="@+id/duration_view"
+		android:layout_marginStart="10dp"
+		android:layout_marginEnd="10dp"
+		android:layout_width="match_parent"
+		android:layout_height="184dp"/>
+</LinearLayout>

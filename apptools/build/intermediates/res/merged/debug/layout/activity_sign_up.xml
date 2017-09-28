@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/main_bg"
+              android:orientation="vertical">
+
+    <com.advanpro.fwtools.common.view.TitleBar
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <ScrollView
+        android:scrollbars="none"
+        android:overScrollMode="never"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="16dp"
+                android:stretchColumns="1">
+
+                <TableRow
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp">
+
+                    <TextView
+                        android:layout_marginEnd="5dp"
+                        android:text="@string/phone_colon"
+                        android:textColor="@color/content_text"
+                        android:textSize="16sp"/>
+
+                    <com.advanpro.fwtools.common.view.ClearEditText
+                        android:id="@+id/et_account"
+                        android:layout_width="0dp"
+                        android:layout_height="36dp"
+                        android:layout_weight="1"
+                        android:textColor="@color/content_text"
+                        android:background="@drawable/edittext_bg"
+                        android:hint="@string/input_phone"
+                        android:inputType="textEmailAddress"
+                        android:maxLength="80"
+                        android:paddingEnd="10dp"
+                        android:paddingStart="10dp"
+                        android:singleLine="true"
+                        android:textSize="16sp"/>
+                </TableRow>
+                <TableRow
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp"
+                    android:gravity="center">
+
+                    <TextView
+                        android:layout_marginEnd="5dp"
+                        android:text="@string/check_code"
+                        android:textColor="@color/content_text"
+                        android:textSize="16sp"/>
+
+                    <com.advanpro.fwtools.common.view.ClearEditText
+                        android:id="@+id/check_input"
+                        android:layout_width="0dp"
+                        android:layout_height="36dp"
+                        android:layout_weight="1"
+                        android:textColor="@color/content_text"
+                        android:background="@drawable/edittext_bg"
+                        android:hint="@string/input_code"
+                        android:inputType="textEmailAddress"
+                        android:maxLength="80"
+                        android:paddingEnd="10dp"
+                        android:paddingStart="10dp"
+                        android:singleLine="true"
+                        android:textSize="16sp"/>
+                    <Button
+                        android:id="@+id/getCheck_code_btn"
+                        android:layout_width="100dp"
+                        android:layout_height="40dp"
+                        android:text="获取验证码"
+                        android:textSize="12sp"
+                        android:textColor="@android:color/white"
+                        />
+                </TableRow>
+                <TableRow
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp">
+
+                    <TextView
+                        android:text="@string/password_colon"
+                        android:textColor="@color/content_text"
+                        android:textSize="16sp"/>
+
+                    <com.advanpro.fwtools.common.view.ClearEditText
+                        android:id="@+id/et_pwd"
+                        android:layout_width="0dp"
+                        android:layout_height="36dp"
+                        android:layout_weight="1"
+                        android:textColor="@color/content_text"
+                        android:background="@drawable/edittext_bg"
+                        android:hint="@string/input_password"
+                        android:inputType="textPassword"
+                        android:paddingEnd="10dp"
+                        android:paddingStart="10dp"
+                        android:singleLine="true"
+                        android:textSize="16sp"/>
+                </TableRow>
+
+                <TableRow
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp">
+
+                    <TextView
+                        android:text="@string/confirm_password_colon"
+                        android:textColor="@color/content_text"
+                        android:textSize="16sp"/>
+
+                    <com.advanpro.fwtools.common.view.ClearEditText
+                        android:id="@+id/et_confirm_pwd"
+                        android:layout_width="0dp"
+                        android:layout_height="36dp"
+                        android:layout_weight="1"
+                        android:textColor="@color/content_text"
+                        android:background="@drawable/edittext_bg"
+                        android:hint="@string/confirm_password"
+                        android:inputType="textPassword"
+                        android:paddingEnd="10dp"
+                        android:paddingStart="10dp"
+                        android:singleLine="true"
+                        android:textSize="16sp"/>
+                </TableRow>
+
+                <TableRow
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp">
+
+                    <TextView
+                        android:text="@string/username_colon"
+                        android:textColor="@color/content_text"
+                        android:textSize="16sp"/>
+
+                    <com.advanpro.fwtools.common.view.ClearEditText
+                        android:id="@+id/et_name"
+                        android:layout_width="0dp"
+                        android:layout_height="36dp"
+                        android:layout_weight="1"
+                        android:textColor="@color/content_text"
+                        android:background="@drawable/edittext_bg"
+                        android:hint="@string/input_username"
+                        android:paddingEnd="10dp"
+                        android:paddingStart="10dp"
+                        android:singleLine="true"
+                        android:textSize="16sp"/>
+                </TableRow>
+
+                <TableRow
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp">
+
+                    <TextView
+                        android:layout_gravity="center_vertical"
+                        android:text="@string/gender_colon"
+                        android:textColor="@color/content_text"
+                        android:textSize="16sp"/>
+
+                    <RadioGroup
+                        android:id="@+id/radioGroup"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginTop="5dp"
+                        android:gravity="center_horizontal"
+                        android:orientation="horizontal">
+
+                        <RadioButton
+                            android:id="@+id/rb_male"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:button="@null"
+                            android:checked="true"
+                            android:drawablePadding="10dp"
+                            android:drawableStart="@drawable/male"
+                            android:text="@string/male"
+                            android:textColor="@color/content_text"
+                            android:textSize="16sp"/>
+
+                        <RadioButton
+                            android:id="@+id/rb_female"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="30dp"
+                            android:button="@null"
+                            android:drawablePadding="10dp"
+                            android:drawableStart="@drawable/female"
+                            android:text="@string/female"
+                            android:textColor="@color/content_text"
+                            android:textSize="16sp"/>
+                    </RadioGroup>
+                </TableRow>
+
+                <TableRow
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp">
+
+                    <TextView
+                        android:layout_marginEnd="5dp"
+                        android:text="@string/birthyear_colon"
+                        android:textColor="@color/content_text"
+                        android:textSize="16sp"/>
+
+                    <TextView
+                        android:id="@+id/tv_birthyear" 
+                        android:layout_width="0dp"
+                        android:layout_height="36dp"
+                        android:layout_weight="1"
+                        android:text="1990"
+                        android:gravity="center_vertical"
+                        android:textColor="@color/content_text"
+                        android:background="@drawable/edittext_bg"
+                        android:paddingEnd="10dp"
+                        android:paddingStart="10dp"
+                        android:textSize="16sp"/>
+                </TableRow>
+
+                <TableRow
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp">
+
+                    <TextView
+                        android:text="@string/height_colon"
+                        android:textColor="@color/content_text"
+                        android:textSize="16sp"/>
+
+                    <com.advanpro.fwtools.common.view.ClearEditText
+                        android:id="@+id/et_height"
+                        android:layout_width="0dp"
+                        android:layout_height="36dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/edittext_bg"
+                        android:hint="@string/input_height"
+                        android:textColor="@color/content_text"
+                        android:inputType="number"
+                        android:maxLength="3"
+                        android:paddingEnd="10dp"
+                        android:paddingStart="10dp"
+                        android:singleLine="true"
+                        android:textSize="16sp"/>
+                </TableRow>
+
+                <TableRow
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp">
+
+                    <TextView
+                        android:text="@string/weight_colon"
+                        android:textColor="@color/content_text"
+                        android:textSize="16sp"/>
+
+                    <com.advanpro.fwtools.common.view.ClearEditText
+                        android:id="@+id/et_weight"
+                        android:layout_width="0dp"
+                        android:layout_height="36dp"
+                        android:layout_weight="1"
+                        android:textColor="@color/content_text"
+                        android:background="@drawable/edittext_bg"
+                        android:hint="@string/input_weight"
+                        android:inputType="number"
+                        android:maxLength="3"
+                        android:paddingEnd="10dp"
+                        android:paddingStart="10dp"
+                        android:singleLine="true"
+                        android:textSize="16sp"/>
+                </TableRow>
+            </TableLayout>
+
+            <Button
+                android:id="@+id/btn_sign_up"
+                android:layout_width="match_parent"
+                android:layout_height="44dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="30dp"
+                android:textColor="#fff"
+                android:background="@drawable/red_btn"
+                android:text="@string/sign_up"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
+

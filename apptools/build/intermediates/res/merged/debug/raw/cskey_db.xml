@@ -1,0 +1,20 @@
+<PSKEY_DATABASE VERSION="1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation='pskey.xsd' >
+  
+  <!--
+    Copyright (c) Cambridge Silicon Radio Ltd. 2009-2010
+  -->\ca2343cxfd2
+  <PSKEYS BUILD_ID="0">
+    <PSKEY NAME="bdaddr" ID="1" OFFSET="1" LENGTH="3">
+    </PSKEY>
+    <PSKEY NAME="crystal_ftrim" ID="2" OFFSET="4" LENGTH="1" MAX="63" MIN="0">
+    </PSKEY>
+    <PSKEY NAME="user_keys" ID="4" OFFSET="8" LENGTH="8">
+    </PSKEY>
+    <PSKEY NAME="identity_root" ID="17" OFFSET="30" LENGTH="8">
+    </PSKEY>
+    <PSKEY NAME="encryption_root" ID="18" OFFSET="38" LENGTH="8">
+    </PSKEY>
+  </PSKEYS>
+</PSKEY_DATABASE>

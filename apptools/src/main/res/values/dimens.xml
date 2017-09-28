@@ -1,0 +1,25 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="detail_content_text_size">18sp</dimen>
+    <dimen name="detail_unit_size">14sp</dimen>
+    <dimen name="detail_whole_day_num_size">22sp</dimen>
+    <dimen name="detail_num_size">18sp</dimen>
+    <dimen name="page_pose_content_text_size">18sp</dimen>
+
+
+    <dimen name="stat_size">16dp</dimen>
+    <dimen name="stat_marginRight">15dp</dimen>
+    <dimen name="stat_marginLeft">15dp</dimen>
+    <dimen name="stat_marginTop">10dp</dimen>
+    <dimen name="stat_marginBottom">10dp</dimen>
+
+    <dimen name="gait_bar_size">28dp</dimen>
+
+    <!--activity_stat_gait_viewpager-->
+    <dimen name="layout_marginTop">10dp</dimen>
+    <dimen name="layout_marginLeft">20dp</dimen>
+    <dimen name="layout_marginRight">20dp</dimen>
+    <dimen name="layout_marginBottom">10dp</dimen>
+</resources>

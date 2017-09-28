@@ -1,0 +1,558 @@
+[
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\eight.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\eight.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\add_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\back_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\back_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\progress_1.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\progress_1.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cancel_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\cancel_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\delete_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\delete_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\single_cycle.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\single_cycle.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\dialog_content_bg.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\dialog_content_bg.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\zero.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\zero.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\delete_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\delete_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\back_home_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\back_home_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\step.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\step.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qr_scan_line.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\qr_scan_line.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unbind_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\unbind_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\scan_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\scan_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\progress_2.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\progress_2.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\play_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\goon_run_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\goon_run_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gait_value_2.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\gait_value_2.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pose_icon_1.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\pose_icon_1.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\three.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\three.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\start_plan_gray.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\start_plan_gray.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\four.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\four.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gait_right_icon.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\gait_right_icon.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\female_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\female_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\next_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\next_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\location_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\location_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\male_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\male_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\activity_icon_2.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\activity_icon_2.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\path_bottom_bg.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\path_bottom_bg.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sign.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\sign.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pause_run_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\pause_run_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uncheck.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\uncheck.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chk_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\chk_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pause_run_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\pause_run_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\music_up_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\music_up_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\progress_9.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\progress_9.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gait_left_icon.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\gait_left_icon.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\goon_run_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\goon_run_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ok_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\ok_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\garbage_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\garbage_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\blue_btn_normal.9.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\blue_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\playlist_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\playlist_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\refresh_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\refresh_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\garbage_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\garbage_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\progress_3.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\progress_3.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\add_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\activity_position_2.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\activity_position_2.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ok_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\ok_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\play_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\all_cycle.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\all_cycle.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\end_plan_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\end_plan_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\head.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\head.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\five.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\five.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pause_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\pause_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\warning_icon.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\warning_icon.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\activity_icon_1.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\activity_icon_1.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\plan_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\plan_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\location_marker.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\location_marker.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\running_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\running_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\nine.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\nine.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\one.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\one.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rate.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\rate.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\back_home_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\back_home_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\location_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\location_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\progress_11.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\progress_11.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\progress_6.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\progress_6.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\check_dark.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\check_dark.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\warning.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\warning.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gait_left_icon_2.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\gait_left_icon_2.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cancel_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\cancel_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\progress_7.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\progress_7.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\scan_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\scan_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\two.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\two.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_actvity.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\tab_actvity.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\progress_12.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\progress_12.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\search.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\start.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\start.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\playlist_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\playlist_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gait_right_icon_2.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\gait_right_icon_2.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\music_down_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\music_down_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\end_plan_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\end_plan_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chk_checked.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\chk_checked.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\dialog_title_bg.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\dialog_title_bg.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\progress_10.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\progress_10.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\end.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\end.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unbind_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\unbind_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\dot.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\dot.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\next_track_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\next_track_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_foot_dark.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\left_foot_dark.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\next_track_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\next_track_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_statistics.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\tab_statistics.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\plan_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\plan_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\male_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\male_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\next_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\next_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_me.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\tab_me.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gait_left_icon_1.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\gait_left_icon_1.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\start_plan_bright.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\start_plan_bright.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\progress_8.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\progress_8.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ring.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\ring.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\refresh_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\refresh_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pause_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\pause_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\activity_icon.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\activity_icon.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\progress_5.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\progress_5.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\six.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\six.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\clear.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\clear.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\red_btn_pressed.9.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\red_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\right_foot_bright.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\right_foot_bright.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pre_track_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\pre_track_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unfolded.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\unfolded.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\blue_btn_pressed.9.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\blue_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\duration.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\duration.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\female_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\female_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\music_down_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\music_down_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\start_run_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\start_run_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_more.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\tab_more.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\progress_4.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\progress_4.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\stop_run_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\stop_run_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\random.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\random.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\waring_icon_1.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\waring_icon_1.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\folded.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\folded.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\right_foot_dark.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\right_foot_dark.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rotate.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\rotate.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\empty_music_list.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\empty_music_list.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_foot_bright.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\left_foot_bright.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\close.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\close.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\check_bright.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\check_bright.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\activity_position_3.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\activity_position_3.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\running_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\running_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\seveen.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\seveen.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\back_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\back_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\start_run_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\start_run_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\calorie.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\calorie.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\red_btn_normal.9.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\red_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\stop_run_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\stop_run_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pre_track_pressed.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\pre_track_pressed.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\music_up_normal.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\music_up_normal.png"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\activity_icon_p_2.png",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\drawable-xhdpi\\activity_icon_p_2.png"
+    }
+]

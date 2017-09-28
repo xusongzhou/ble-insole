@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="title_bar_bg">#DDD</color>
+    <color name="tabhost_bg">#CCC</color>
+    <color name="white">#FFF</color>   
+    <color name="title_bar_text">#333</color>
+    <color name="item_bg">#990D0D0D</color>
+    <color name="content_text">#444</color>
+    <color name="content_item_bg">#D3D3D3</color>
+    <color name="sub_content_text">#8F8F8F</color>     
+    <color name="divider">#585858</color>
+    <color name="tab_view_normal_text">#DDD</color>
+    <color name="tab_view_checked_text">#DDD</color>
+    <color name="view_pager_indicator_bg">#121212</color>
+    <color name="top_tips_bg">#1A1A1B</color>
+    <color name="top_warning_bg">#E8BF6A</color>
+    <color name="playlist_bg">#222</color>
+    <color name="indicator">#EC4529</color>
+    <!-- 跑步计划-->
+    <color name="run_plan_progress">#FF2400</color>
+    <color name="run_plan_progress_bg">#33FF2400</color>
+    <color name="run_plan_line">#E3180D</color>
+    <color name="run_plan_froeground">#88040405</color>
+    <!-- 统计-->
+    <color name="tab_text">#50E3C2</color>
+    <color name="tab_bg">#9926252A</color>
+    <!--跑步-->
+    <color name="inner_ring">#00A83B</color>
+    <color name="music_bg">#121212</color>
+    <color name="path_number">#E64229</color>
+    <color name="playing_item">#E43F15</color>
+    <!--伴跑音乐-->
+    <color name="selected_songlist">#DB4A23</color>
+    
+    <color name="transparent">#CCC</color>
+
+    <color name="a1">#FAEC61</color>
+    <color name="a2">#95E351</color>
+    <color name="a3">#07F1A7</color>
+    <color name="a4">#15AFB3</color>
+
+    <color name="circle_1">#FAD961</color>
+    <color name="circle_2">#F76B1C</color>
+    <color name="circle_3">#B4EC51</color>
+    <color name="circle_4">#008E91</color>
+    <color name="circle_5">#009CA2</color>
+    <color name="circle_6">#0048AD</color>
+
+
+</resources>

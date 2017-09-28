@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "E:\\MyWorkspace\\AndroidStudioProjects\\AdvanproAppTools\\apptools\\src\\main\\res\\anim\\dialog_exit.xml"
+    }
+]

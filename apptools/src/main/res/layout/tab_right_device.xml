@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  android:layout_width="match_parent"
+			  android:layout_height="wrap_content">
+	
+	<RelativeLayout
+        android:paddingBottom="16dp"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent">
+		<ImageButton
+			android:id="@+id/btn_unbind"
+			android:layout_alignParentEnd="true"
+			android:layout_marginTop="4dp"
+            android:padding="16dp"
+            android:src="@drawable/unbind"
+            android:background="@android:color/transparent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+		<ImageView
+			android:id="@+id/iv_foot"
+			android:background="@drawable/right_foot_dark"
+			android:layout_marginTop="28dp"
+			android:layout_centerHorizontal="true"
+			android:layout_width="64dp"
+			android:layout_height="176dp"/>
+        <TextView
+            android:id="@+id/tv_firmware_error"
+            android:visibility="invisible"
+            android:text="@string/firmware_error"
+            android:textSize="24sp"
+            android:textColor="#f00"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+		<com.advanpro.fwtools.module.more.BatteryView
+			android:id="@+id/battery_view"
+			android:layout_below="@id/iv_foot"
+			android:layout_marginTop="10dp"
+			android:layout_marginBottom="10dp"
+			android:layout_centerHorizontal="true"
+			android:layout_width="32dp"
+			android:layout_height="16dp"/>		
+	</RelativeLayout>
+
+	<ImageView
+		android:id="@+id/iv_progress"
+		android:layout_gravity="center"
+		android:background="@drawable/progress_bar"
+		android:layout_width="32dp"
+		android:layout_height="32dp"/>
+</FrameLayout>

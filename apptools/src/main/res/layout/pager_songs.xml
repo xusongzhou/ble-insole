@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  android:layout_width="match_parent"
+			  android:layout_height="match_parent">
+
+	<LinearLayout
+		android:id="@+id/ll_empty"
+		android:gravity="center"
+		android:orientation="vertical"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent">
+		<ImageView
+			android:src="@drawable/empty_music_list"
+			android:layout_width="80dp"
+			android:layout_height="80dp"/>
+		<TextView
+			android:text="@string/empty"
+			android:textSize="18sp"
+			android:layout_marginTop="10dp"
+			android:textColor="@color/content_text"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"/>
+	</LinearLayout>
+		
+	<LinearLayout
+		android:orientation="vertical"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent">
+		<ListView
+			android:id="@+id/lv"
+			android:overScrollMode="never"
+			android:divider="@null"
+			android:listSelector="@android:color/transparent"
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_weight="1"/>
+		<LinearLayout
+			android:id="@+id/ll_add_to"
+			android:visibility="gone"
+			android:gravity="center"
+			android:layout_width="match_parent"
+			android:layout_height="60dp">
+
+			<TextView
+				android:id="@+id/tv_add_to"
+				android:text="@string/add_to"
+				android:drawableStart="@drawable/add"
+				android:gravity="center"
+				android:textColor="@drawable/title_bar_text_color"
+				android:textSize="18sp"
+				android:paddingStart="20dp"
+				android:paddingEnd="20dp"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"/>
+		</LinearLayout>
+	</LinearLayout>
+	
+</FrameLayout>
